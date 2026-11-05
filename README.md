@@ -1,11 +1,11 @@
 # Vision-Guided-Autonomous-Material-Handling-Robot
-A vision-guided autonomous material-handling robot featuring custom electronics, chassis kinematics, motion control, and closed-loop target alignment.
+
+### A vision-guided autonomous material-handling robot featuring custom electronics, chassis kinematics, motion control, and closed-loop target alignment.
 <div align="center">
 
-### An autonomous robot that can see, align, and transport targets
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+![Thonny](https://img.shields.io/badge/Thonny-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
@@ -26,19 +26,7 @@ The complete robot was developed from the ground up, including custom electronic
 
 ### 🚗 Complete Mission
 
-<!-- Upload assets/robot-demo.gif, then remove the comment markers.
-
-<p align="center">
-  <img
-    src="assets/robot-demo.gif"
-    width="720"
-    alt="Complete robot mission"
-  >
-</p>
-
--->
-
-> 🎞️ GIF placeholder: `assets/robot-demo.gif`
+> 🎞️ GIF placeholder: `demo.gif`
 
 ## ✨ Key Features
 
