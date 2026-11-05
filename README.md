@@ -24,9 +24,7 @@ The complete robot was developed from the ground up, including custom electronic
 
 ## 🎬 Demo
 
-### 🚗 Complete Mission
-
-> 🎞️ GIF placeholder: `demo.gif`
+![Robot Demo](./demo.GIF)
 
 ## ✨ Key Features
 
